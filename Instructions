@@ -11,7 +11,9 @@ Each of the directories should contain 4 subdirectories called broad,grass,soil,
 
 Step 3 :
 Split the dataset into 80% and 20% for training and testing directories respectively.
+
 Step 4:
 Build convolution models and attain its accuracy by tuning the hyper parameters.
+
 Step 5 :
 After building of the model is done, for testing, create another folder called “testing_outputs” and upload your images other than the dataset collected for testing.
